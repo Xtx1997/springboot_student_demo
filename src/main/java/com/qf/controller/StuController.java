@@ -9,6 +9,9 @@ import org.springframework.web.bind.annotation.RequestMapping;
 
 import java.util.List;
 
+/**
+ * hahaha
+ */
 @Controller
 @RequestMapping("/stu")
 public class StuController {
